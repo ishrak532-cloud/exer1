@@ -1,4 +1,4 @@
-<?php include 'header.php' ?>
+<?php include 'header.php'; ?>
 <style>
 .screenshot{
     display: block;
@@ -49,4 +49,4 @@ $g3 = 5;
 </table>
 <img class="screenshot" src="Screenshot_12.png" alt="Screenshot of development environment" width="600">
 <img class="screenshot" src="Screenshot_2.png" alt="Screenshot of development environment" width="600">
-<?php include 'footer.php' ?>
+<?php include 'footer.php'; ?>
