@@ -69,12 +69,12 @@ $g3 = 5;
 </tr>
 </table>
 <?php
-$str1 = "Hello";
-$str2 = "World";
-function test(): void{
-    global $str1, $str2;
- $fullStr = $str1 . $str2;
-echo "Full string is: $fullStr.<br>";
+$str1="Hello";
+$str2="World";
+function test():void{
+    global $str1,$str2;
+ $fullStr=$str1 . $str2;
+echo "Full string is:$fullStr.<br>";
     echo "string length: " . strlen($fullStr);
 }
 test();

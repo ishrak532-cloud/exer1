@@ -48,6 +48,7 @@
     <a class="navlink"href="aboutus.php">about us</a>
   <a class="navlink"href="contactus.php">contact us</a>
   <a class="navlink"href="ex3.php">exercise 3</a>
+    <a class="navlink"href="ex4.php">exercise 4</a>
 </nav>
 
     </header>
