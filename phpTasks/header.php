@@ -44,9 +44,10 @@
         <p>Your go-to source for web development tutorials</p>
         <nav>
   <a class="navlink"href="index.php">home</a>
-  <a class="navlink"href="ex1.php">ex 1</a>
+  <a class="navlink"href="ex1.php">exercise 1</a>
     <a class="navlink"href="aboutus.php">about us</a>
   <a class="navlink"href="contactus.php">contact us</a>
+  <a class="navlink"href="ex3.php">exercise 3</a>
 </nav>
 
     </header>
